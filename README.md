@@ -201,12 +201,12 @@ export default App;
 }
 
 ```
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/sangeethak15-AI/Exp-5-Develop-a-complete-Todo-application-with-all-features/assets/93992063/2325489e-1fd6-4579-873c-7cd739af077c)
 ![image](https://github.com/sangeethak15-AI/Exp-5-Develop-a-complete-Todo-application-with-all-features/assets/93992063/a5ea6266-792f-47d2-903b-e59850f1ff3b)
 
 
-RESULT:
+## RESULT:
 Thus,a todo application is created using react.
 
 
